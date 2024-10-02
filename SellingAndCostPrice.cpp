@@ -14,7 +14,7 @@ int main(){
         cout<<"YOU ARE NOT IN PROFIT AND LOSS : "<<n<< " RS"<< endl;
      }
      else {
-        cout << "YOU ARE IN LOSS : " << n<<" RS" <<endl;
+        cout << "YOU ARE IN LOSSES : " << n<<" RS" <<endl;
      }
 
 }
